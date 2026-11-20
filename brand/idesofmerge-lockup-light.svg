@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 220" width="880" height="220">
+  <g transform="translate(24, 14) scale(0.375)">
+    <path d="M102.08 120.24L258.12 120.24L238.90 168.99L206.57 159.87L192.95 208.13L216.50 214.78L171.59 324.22L195.43 316.84L181.47 396.95L102.08 396.95Z M128.02 146.18L128.02 371.01L141.86 371.01L141.86 146.18Z" fill="#334366" fill-rule="evenodd"/>
+    <path d="M293.22 120.24L316.53 120.24L316.53 189.42L382.25 189.42L382.25 396.95L231.82 396.95L267.38 349.57L238.63 351.91L275.88 231.55L301.14 238.67L314.76 190.41L282.44 181.28Z" fill="#C2D0E3"/>
+    <path d="M332.10 96.02L409.92 96.02L409.92 173.85L332.10 173.85Z" fill="#9261F5"/>
+    <path d="M288.86 75.27L257.38 186.79L246.14 183.62Z" fill="#CC2A2E"/>
+    <path d="M288.86 75.27L268.61 189.96L257.38 186.79Z" fill="#0ECA80"/>
+    <path d="M232.86 206.82L250.33 211.75L186.82 436.73L210.76 299.42L192.54 305.06Z" fill="#CC2A2E"/>
+    <path d="M250.33 211.75L267.81 216.69L221.78 365.43L241.55 363.82L186.82 436.73Z" fill="#0ECA80"/>
+    <path d="M214.94 174.81L299.82 198.77L292.77 223.73L207.89 199.77Z" fill="#9261F5"/>
+  </g>
+  <g font-family="'DejaVu Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="242" y="118" font-size="68" font-weight="700" letter-spacing="-1.5" fill="#111827">IDEs <tspan font-weight="400" fill="#52607A">of</tspan> Merge</text>
+    <text x="245" y="156" font-family="'DejaVu Sans Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" letter-spacing="2.8" fill="#52607A">IDE EXTENSIONS  <tspan fill="#9261F5">·</tspan>  THEMES  <tspan fill="#9261F5">·</tspan>  DEV TOOLS</text>
+  </g>
+</svg>
