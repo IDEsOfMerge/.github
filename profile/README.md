@@ -18,7 +18,7 @@
 | Project | Description | Links |
 | --- | --- | --- |
 | **[Hylian Palette](https://github.com/IDEsOfMerge/hylian-palette)** | 40th anniversary tribute to *The Legend of Zelda* (1986–2026) — 36 Light & Dark OKLCH themes covering all 18 mainline games for VS Code & Positron, with an offline interactive Workbench & Colorimetry Explorer. | [Repository](https://github.com/IDEsOfMerge/hylian-palette) · [Live Explorer ↗](https://idesofmerge.github.io/hylian-palette/) · [Releases](https://github.com/IDEsOfMerge/hylian-palette/releases) |
-| **[Console Palette](https://github.com/IDEsOfMerge/console-palette)** | 45 years of gaming hardware (1977–2022) — 60 Light & Dark OKLCH themes covering 30 iconic consoles for VS Code & Positron, with an offline Interactive Workbench & Colorimetry Explorer. | [Repository](https://github.com/IDEsOfMerge/console-palette) · [Live Explorer ↗](https://idesofmerge.github.io/console-palette/) · [Releases](https://github.com/IDEsOfMerge/console-palette/releases) |
+| **[Console Palette](https://github.com/IDEsOfMerge/console-palette)** | 49 years of gaming hardware (1977–2026) — 78 Light & Dark OKLCH themes covering 39 iconic consoles for VS Code & Positron, with an offline Interactive Workbench & Colorimetry Explorer. | [Repository](https://github.com/IDEsOfMerge/console-palette) · [Live Explorer ↗](https://idesofmerge.github.io/console-palette/) · [Releases](https://github.com/IDEsOfMerge/console-palette/releases) |
 
 ### Craft & Engineering Standards
 
